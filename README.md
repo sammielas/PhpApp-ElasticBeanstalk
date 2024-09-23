@@ -1,6 +1,3 @@
-Here’s a structured README file based on your course summary, formatted for a GitHub repository:
-
-```markdown
 # Deploying a PHP App on AWS using Elastic Beanstalk
 
 ## Overview

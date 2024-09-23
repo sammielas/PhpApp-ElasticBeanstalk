@@ -18,9 +18,7 @@ This repository contains a step-by-step guide on how to deploy a PHP application
    - [Step 10: Deploy the Code](#step-10-deploy-the-code)
    - [Step 11: Clean Up Resources](#step-11-clean-up-resources)
 3. [How to Use](#how-to-use)
-4. [Contributors](#contributors)
-5. [License](#license)
-6. [Further Reading](#further-reading)
+4. [Further Reading](#further-reading)
 
 ## Prerequisites
 Before starting, ensure you have the following tools and resources:
